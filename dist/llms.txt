@@ -1,0 +1,5 @@
+## Pages
+- [Admin Dashboard - T-shirt & More](/admin): Admin dashboard for managing the T-shirt & More store.
+- [Login - T-shirt & More](/login): No description available
+- [Sign Up - T-shirt & More](/signup): No description available
+- [T-shirt & More - Premium Youth Fashion](/home): Discover premium printed youth T-shirts with modern designs. Shop our exclusive collection of graphic tees, neon prints, and artistic designs.
